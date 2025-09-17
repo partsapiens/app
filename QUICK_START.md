@@ -1,5 +1,7 @@
 # AI-Powered Yoga App
 
+> 🚀 **Want detailed instructions to run the demo?** Check out [DEMO.md](DEMO.md) for comprehensive setup and troubleshooting guide.
+
 ## Quick Start
 
 This Android app uses ML Kit to detect yoga poses in real-time. It currently supports:
@@ -12,6 +14,8 @@ This Android app uses ML Kit to detect yoga poses in real-time. It currently sup
 2. Build and run on a device with camera
 3. Grant camera permissions
 4. Point camera at person doing yoga poses
+
+**📖 For detailed step-by-step instructions**: See [DEMO.md](DEMO.md)
 
 ## Technical Stack
 - **ML Kit Pose Detection**: Google's accurate pose detection

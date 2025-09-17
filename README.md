@@ -2,6 +2,12 @@
 
 An Android application that uses Google's ML Kit Pose Detection to recognize and provide feedback on yoga poses in real-time.
 
+## 🎯 Want to see the demo?
+
+**👉 Check out [DEMO.md](DEMO.md) for complete step-by-step instructions to run the app and see it in action!**
+
+Quick preview: This app uses your phone's camera to detect when you're performing yoga poses like Mountain Pose, Downward Dog, and Warrior I, providing real-time feedback with confidence scores.
+
 ## Features
 
 - **Real-time Pose Detection**: Uses ML Kit's accurate pose detection to analyze yoga poses through the camera
@@ -79,6 +85,11 @@ Data classes that define:
 
 ## Getting Started
 
+### 🚀 Quick Demo
+**Want to see what the app looks like?** Follow our comprehensive [**DEMO.md**](DEMO.md) guide for detailed step-by-step instructions to run the demo.
+
+### Basic Setup
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/partsapiens/app.git
@@ -98,6 +109,9 @@ Data classes that define:
    - Point the camera at yourself or another person
    - Perform one of the supported yoga poses
    - View real-time pose detection feedback
+
+📖 **For detailed instructions, troubleshooting, and tips**: See [**DEMO.md**](DEMO.md)
+❓ **Have questions?** Check out [**FAQ.md**](FAQ.md)
 
 ## Usage Instructions
 
