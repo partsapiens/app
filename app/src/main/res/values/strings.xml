@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yoga App</string>
+    <string name="pose_detection_title">AI Yoga Pose Detection</string>
+    <string name="camera_permission_required">Camera permission is required for pose detection</string>
+    <string name="pose_detected">Pose detected: %s</string>
+    <string name="no_pose_detected">No pose detected</string>
+    <string name="mountain_pose">Mountain Pose</string>
+    <string name="downward_dog">Downward Dog</string>
+    <string name="warrior_1">Warrior I</string>
+    <string name="unknown_pose">Unknown Pose</string>
+</resources>
