@@ -1,0 +1,17 @@
+{
+  "name": "breathing-meditation-app",
+  "version": "1.0.0",
+  "description": "A breathing meditation app with health data integration",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "live-server --port=8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["meditation", "breathing", "health", "wearables", "wellness"],
+  "author": "PartsApiens",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
